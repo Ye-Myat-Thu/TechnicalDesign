@@ -6,7 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Content/Base/Maps/BossEncounter.umap",
-				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Content/MyContents/InteractableStairs.uasset"
+				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Content/MyContents/InteractableStairs.uasset",
+				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Content/Base/Blueprints/InteractionSamples/Advanced/AppearingPlatform.uasset",
+				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Content/MyContents/InteractableSwitch.uasset",
+				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Plugins/GAD2010Interaction/Content/InteractionComponent.uasset"
 			]
 		}
 	]
