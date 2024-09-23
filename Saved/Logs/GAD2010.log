@@ -1173,3 +1173,173 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.09.23-15.09.51:269][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
 [2024.09.23-15.09.51:276][188]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.09.23-15.09.51:276][188]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2024.09.23-15.11.42:814][996]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.09.23-15.11.49:229][587]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.09.23-15.11.49:260][587]LogContentBrowser: Creating deferred item: NewFolder
+[2024.09.23-15.11.49:265][588]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.09.23-15.11.58:034][629]LogContentBrowser: Attempting asset rename: NewFolder -> MyContents
+[2024.09.23-15.11.58:035][629]LogContentBrowser: End creating deferred item NewFolder
+[2024.09.23-15.12.25:254][706]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.09.23-15.12.25:261][706]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.09.23-15.12.25:265][706]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.09.23-15.12.25:282][708]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.09.23-15.12.55:195][270]LogContentBrowser: Attempting asset rename: NewBlueprint -> InteractableStairs
+[2024.09.23-15.12.55:203][270]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.09.23-15.12.57:690][567]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyContents/InteractableStairs.InteractableStairs
+[2024.09.23-15.13.16:534][727]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.09.23-15.13.27:288][920]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/PolygonPrototype/Meshes/Buildings/Polygon/SM_Bld_Stairs_1x1_01P) ...
+[2024.09.23-15.13.27:291][920]LogStaticMesh: Display: Building static mesh SM_Bld_Stairs_1x1_01P (Required Memory Estimate: 0.102599 MB)...
+[2024.09.23-15.13.27:294][920]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonPrototype/Meshes/Buildings/Polygon/SM_Bld_Stairs_1x1_01P.SM_Bld_Stairs_1x1_01P
+[2024.09.23-15.13.30:179][210]LogStaticMesh: Display: Building static mesh SM_Bld_Stairs_1x2_01 (Required Memory Estimate: 0.064788 MB)...
+[2024.09.23-15.13.30:179][210]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonPrototype/Meshes/Buildings/Simple/SM_Bld_Stairs_1x2_01.SM_Bld_Stairs_1x2_01
+[2024.09.23-15.13.30:180][210]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/PolygonPrototype/Meshes/Buildings/Simple/SM_Bld_Stairs_1x2_01) ...
+[2024.09.23-15.13.45:925][979]LogEditorTransaction: Undo Modify Component(s)
+[2024.09.23-15.13.47:241][ 77]LogEditorTransaction: Undo Modify Component(s)
+[2024.09.23-15.16.04:264][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.09.23-15.16.26:683][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.09.23-15.16.36:185][371]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.09.23-15.16.38:020][514]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.09.23-15.16.53:269][  1]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.09.23-15.16.53:277][  1]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.09.23-15.16.53:283][  1]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.09.23-15.16.53:291][  2]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.09.23-15.17.02:479][ 84]LogContentBrowser: Attempting asset rename: NewBlueprint -> InteractableSwitch
+[2024.09.23-15.17.02:484][ 84]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.09.23-15.17.04:887][372]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyContents/InteractableSwitch.InteractableSwitch
+[2024.09.23-15.17.27:618][937]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/PolygonPrototype/Meshes/Props/SM_Switch_Button_Push_02) ...
+[2024.09.23-15.17.27:628][937]LogStaticMesh: Display: Building static mesh SM_Switch_Button_Push_02 (Required Memory Estimate: 0.039674 MB)...
+[2024.09.23-15.17.27:629][937]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonPrototype/Meshes/Props/SM_Switch_Button_Push_02.SM_Switch_Button_Push_02
+[2024.09.23-15.18.41:675][472]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyContents/InteractableSwitch.InteractableSwitch_C
+[2024.09.23-15.18.41:675][472]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyContents/InteractableSwitch.InteractableSwitch_C
+[2024.09.23-15.18.41:677][472]LogActorFactory: Actor Factory spawned Blueprint /Game/MyContents/InteractableSwitch.InteractableSwitch as actor: InteractableSwitch_C /Game/Base/Maps/BossEncounter.BossEncounter:PersistentLevel.InteractableSwitch_C_0
+[2024.09.23-15.18.41:678][472]LogActorFactory: Actor Factory spawned Blueprint /Game/MyContents/InteractableSwitch.InteractableSwitch as actor: InteractableSwitch_C /Game/Base/Maps/BossEncounter.BossEncounter:PersistentLevel.InteractableSwitch_C_0
+[2024.09.23-15.18.41:686][472]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.09.23-15.18.42:687][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.09.23-15.18.42:688][585]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2024.09.23-15.18.42:694][585]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyContents/InteractableSwitch.InteractableSwitch_C
+[2024.09.23-15.18.42:694][585]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyContents/InteractableSwitch.InteractableSwitch_C
+[2024.09.23-15.18.42:697][585]LogActorFactory: Actor Factory spawned Blueprint /Game/MyContents/InteractableSwitch.InteractableSwitch as actor: InteractableSwitch_C /Game/Base/Maps/BossEncounter.BossEncounter:PersistentLevel.InteractableSwitch_C_1
+[2024.09.23-15.18.42:698][585]LogActorFactory: Actor Factory spawned Blueprint /Game/MyContents/InteractableSwitch.InteractableSwitch as actor: InteractableSwitch_C /Game/Base/Maps/BossEncounter.BossEncounter:PersistentLevel.InteractableSwitch_C_1
+[2024.09.23-15.18.44:101][738]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.09.23-15.18.53:092][705]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.23-15.18.53:106][705]LogPlayLevel: [PlayLevel] Compiling InteractableSwitch before play...
+[2024.09.23-15.18.53:135][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.09.23-15.18.53:135][705]LogPlayLevel: PlayLevel: Blueprint regeneration took 30 ms (1 blueprints)
+[2024.09.23-15.18.53:139][705]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.09.23-15.18.53:139][705]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.09.23-15.18.53:139][705]LogPlayLevel: Creating play world package: /Game/Base/Maps/UEDPIE_0_BossEncounter
+[2024.09.23-15.18.53:141][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001812s)
+[2024.09.23-15.18.53:141][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base/Maps/BossEncounter.BossEncounter to /Game/Base/Maps/UEDPIE_0_BossEncounter.BossEncounter (0.001853s)
+[2024.09.23-15.18.53:152][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.09.23-15.18.53:152][705]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.23-15.18.53:153][705]LogPlayLevel: PIE: World Init took: (0.001474s)
+[2024.09.23-15.18.53:174][705]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.09.23-15.18.53:174][705]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.23-15.18.53:174][705]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.23-15.18.53:174][705]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.23-15.18.53:174][705]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.23-15.18.53:174][705]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.23-15.18.53:174][705]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.23-15.18.53:174][705]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.23-15.18.53:174][705]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.23-15.18.53:174][705]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.23-15.18.53:174][705]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.23-15.18.53:174][705]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.23-15.18.53:175][705]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.23-15.18.53:220][705]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.09.23-15.18.53:220][705]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.23-15.18.53:220][705]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.23-15.18.53:220][705]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.23-15.18.53:221][705]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.09.23-15.18.53:221][705]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.09.23-15.18.53:223][705]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.09.23-15.18.53:223][705]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.09.23-15.18.53:223][705]LogInit: FAudioDevice initialized with ID 2.
+[2024.09.23-15.18.53:223][705]LogAudio: Display: Audio Device (ID: 2) registered with world 'BossEncounter'.
+[2024.09.23-15.18.53:223][705]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.09.23-15.18.53:225][705]LogLoad: Game class is 'EncounterGameMode_C'
+[2024.09.23-15.18.53:226][705]LogWorld: Bringing World /Game/Base/Maps/UEDPIE_0_BossEncounter.BossEncounter up for play (max tick rate 0) at 2024.09.23-16.18.53
+[2024.09.23-15.18.53:226][705]LogWorld: Bringing up level for play took: 0.000641
+[2024.09.23-15.18.53:228][705]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.09.23-15.18.53:239][705]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Base/Maps/UEDPIE_0_BossEncounter.BossEncounter:PersistentLevel.BP_GAD2010_C_0.CharacterMesh0'
+[2024.09.23-15.18.53:290][705]PIE: Server logged in
+[2024.09.23-15.18.53:290][705]PIE: Play in editor total start time 0.192 seconds.
+[2024.09.23-15.18.58:202][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.23-15.18.58:202][277]LogWorld: BeginTearingDown for /Game/Base/Maps/UEDPIE_0_BossEncounter
+[2024.09.23-15.18.58:202][277]LogWorld: UWorld::CleanupWorld for BossEncounter, bSessionEnded=true, bCleanupResources=true
+[2024.09.23-15.18.58:202][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.23-15.18.58:202][277]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.23-15.18.58:202][277]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.23-15.18.58:207][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.23-15.18.58:211][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.23-15.18.58:222][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.23-15.18.58:223][277]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.09.23-15.18.58:223][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.09.23-15.18.58:225][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.09.23-15.18.58:232][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.09.23-15.18.58:327][278]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.09.23-15.19.15:672][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.09.23-15.19.28:430][331]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyContents/InteractableStairs.InteractableStairs_C
+[2024.09.23-15.19.28:430][331]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyContents/InteractableStairs.InteractableStairs_C
+[2024.09.23-15.19.28:431][331]LogActorFactory: Actor Factory spawned Blueprint /Game/MyContents/InteractableStairs.InteractableStairs as actor: InteractableStairs_C /Game/Base/Maps/BossEncounter.BossEncounter:PersistentLevel.InteractableStairs_C_0
+[2024.09.23-15.19.28:432][331]LogActorFactory: Actor Factory spawned Blueprint /Game/MyContents/InteractableStairs.InteractableStairs as actor: InteractableStairs_C /Game/Base/Maps/BossEncounter.BossEncounter:PersistentLevel.InteractableStairs_C_0
+[2024.09.23-15.19.29:817][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.09.23-15.19.29:819][448]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2024.09.23-15.19.29:824][448]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyContents/InteractableStairs.InteractableStairs_C
+[2024.09.23-15.19.29:824][448]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyContents/InteractableStairs.InteractableStairs_C
+[2024.09.23-15.19.29:827][448]LogActorFactory: Actor Factory spawned Blueprint /Game/MyContents/InteractableStairs.InteractableStairs as actor: InteractableStairs_C /Game/Base/Maps/BossEncounter.BossEncounter:PersistentLevel.InteractableStairs_C_1
+[2024.09.23-15.19.29:828][448]LogActorFactory: Actor Factory spawned Blueprint /Game/MyContents/InteractableStairs.InteractableStairs as actor: InteractableStairs_C /Game/Base/Maps/BossEncounter.BossEncounter:PersistentLevel.InteractableStairs_C_1
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: ================================================
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Total job queries 153, among them cache hits 18 (11.76%), DDC hits 119 (77.78%), Duplicates 5 (3.27%)
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Tracking 130 distinct input hashes that result in 126 distinct outputs (96.92%)
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: RAM used: 4.67 MiB of 3.20 GiB budget. Usage: 0.14%
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Shaders Compiled: 11
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Average time worker was idle: 1570.75 s
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.07 s
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Job execution time: average 1.52 s, max 1.97 s
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Job life time (pending + execution): average 1.55 s, max 1.98
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Shader code size: average 27.356 KiB, min 4.41 KiB, max 34.438 KiB
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.33 s
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Average processing rate: 2.54 jobs/sec
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Total thread time: 2.946 s
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Total thread preprocess time: 1.679 s
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Percentage time preprocessing: 56.98%
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Effective parallelization: 0.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.36 sec, max 0.38 sec, min 0.32 sec)
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 0.26 sec, max 0.29 sec, min 0.23 sec)
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.20 sec, max 0.21 sec, min 0.19 sec)
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.19 sec, max 0.20 sec, min 0.18 sec)
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 48.76% of total time (compiled    4 times, average 0.36 sec, max 0.38 sec, min 0.32 sec)
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.56% of total time (compiled    3 times, average 0.20 sec, max 0.21 sec, min 0.19 sec)
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display:                                                  FHitProxyPS - 17.67% of total time (compiled    2 times, average 0.26 sec, max 0.29 sec, min 0.23 sec)
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display:                                                  FHitProxyVS - 13.00% of total time (compiled    2 times, average 0.19 sec, max 0.20 sec, min 0.18 sec)
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: === Material stats ===
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Materials Translated:    119
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Material Translation Only: 0.02 s (13%)
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: Material Cache Hits: 10 (8%)
+[2024.09.23-15.19.46:531][245]LogShaderCompilers: Display: ================================================
+[2024.09.23-15.20.09:129][734]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.23-15.20.09:199][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.09.23-15.20.09:211][734]LogSavePackage: Moving output files for package: /Game/Base/Maps/BossEncounter
+[2024.09.23-15.20.09:213][734]LogSavePackage: Moving '../../../../../../Users/c2507419/Documents/GitHub/TechnicalDesign/Saved/BossEncounter9546C13E4B81F681A95B1E85DD62C708.tmp' to '../../../../../../Users/c2507419/Documents/GitHub/TechnicalDesign/Content/Base/Maps/BossEncounter.umap'
+[2024.09.23-15.20.09:223][734]LogFileHelpers: Saving map 'BossEncounter' took 0.057
+[2024.09.23-15.20.09:230][734]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.809 ms
+[2024.09.23-15.20.09:287][734]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.23-15.20.09:287][734]LogContentValidation: Enabled validators:
+[2024.09.23-15.20.09:287][734]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.23-15.20.09:287][734]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.23-15.20.09:287][734]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.23-15.20.09:287][734]LogContentValidation: Display: Validating asset /Game/Base/Maps/BossEncounter.BossEncounter
+[2024.09.23-15.20.09:287][734]AssetCheck: /Game/Base/Maps/BossEncounter Validating asset
