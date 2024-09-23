@@ -1343,3 +1343,41 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.09.23-15.20.09:287][734]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.09.23-15.20.09:287][734]LogContentValidation: Display: Validating asset /Game/Base/Maps/BossEncounter.BossEncounter
 [2024.09.23-15.20.09:287][734]AssetCheck: /Game/Base/Maps/BossEncounter Validating asset
+[2024.09.23-15.24.05:973][887]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Base/Blueprints/InteractionSamples/Advanced/LongPressButton.LongPressButton
+[2024.09.23-15.24.36:964][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.09.23-15.25.32:467][ 47]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Base/Blueprints/InteractionSamples/Advanced/AppearingPlatform.AppearingPlatform
+[2024.09.23-15.28.36:448][588]LogSlate: Took 0.000851 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.09.23-15.32.27:478][270]LogBlueprint: Error: [AssetLog] /Game/MyContents/InteractableStairs.InteractableStairs: [Compiler] This blueprint (self) is not a InteractionComponent_C, therefore ' Target ' must have a connection.
+[2024.09.23-15.32.27:507][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.09.23-15.36.16:484][103]LogBlueprint: Error: [AssetLog] /Game/MyContents/InteractableStairs.InteractableStairs: [Compiler] This blueprint (self) is not a TimelineShortInteraction_C, therefore ' Target ' must have a connection.
+[2024.09.23-15.36.16:484][103]LogBlueprint: Error: [AssetLog] /Game/MyContents/InteractableStairs.InteractableStairs: [Compiler] Variable node  Get InteractionComponent  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.09.23-15.36.16:484][103]LogClass: Warning: Type mismatch in Interactive Actor to Watch of InteractableStairs_C - Previous (BoolProperty) Current(ObjectProperty) in package: FObjectReader
+[2024.09.23-15.36.16:511][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.09.23-15.36.20:140][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.23-15.36.20:192][484]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyContents/InteractableStairs] ([2] browsable assets)...
+[2024.09.23-15.36.20:202][484]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyContents/InteractableStairs.InteractableStairs]
+[2024.09.23-15.36.20:202][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContents/InteractableStairs]
+[2024.09.23-15.36.20:202][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContents/InteractableStairs" FILE="../../../../../../Users/c2507419/Documents/GitHub/TechnicalDesign/Content/MyContents/InteractableStairs.uasset" SILENT=true
+[2024.09.23-15.36.20:210][484]LogSavePackage: Moving output files for package: /Game/MyContents/InteractableStairs
+[2024.09.23-15.36.20:210][484]LogSavePackage: Moving '../../../../../../Users/c2507419/Documents/GitHub/TechnicalDesign/Saved/InteractableStairsF7C704DF4F3B9442A27174AC1E968D06.tmp' to '../../../../../../Users/c2507419/Documents/GitHub/TechnicalDesign/Content/MyContents/InteractableStairs.uasset'
+[2024.09.23-15.36.20:223][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.301 ms (total: 183.110 ms)
+[2024.09.23-15.36.20:255][484]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.23-15.36.20:255][484]LogContentValidation: Enabled validators:
+[2024.09.23-15.36.20:255][484]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.23-15.36.20:255][484]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.23-15.36.20:255][484]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.23-15.36.20:255][484]LogContentValidation: Display: Validating asset /Game/MyContents/InteractableStairs.InteractableStairs
+[2024.09.23-15.36.20:256][484]AssetCheck: /Game/MyContents/InteractableStairs Validating asset
+[2024.09.23-15.36.21:823][660]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.23-15.36.21:896][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.09.23-15.36.21:909][660]LogSavePackage: Moving output files for package: /Game/Base/Maps/BossEncounter
+[2024.09.23-15.36.21:911][660]LogSavePackage: Moving '../../../../../../Users/c2507419/Documents/GitHub/TechnicalDesign/Saved/BossEncounterFD317A214111B5E78E4033B5DC942C31.tmp' to '../../../../../../Users/c2507419/Documents/GitHub/TechnicalDesign/Content/Base/Maps/BossEncounter.umap'
+[2024.09.23-15.36.21:920][660]LogFileHelpers: Saving map 'BossEncounter' took 0.062
+[2024.09.23-15.36.21:926][660]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.461 ms (total: 286.572 ms)
+[2024.09.23-15.36.21:976][660]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.23-15.36.21:976][660]LogContentValidation: Enabled validators:
+[2024.09.23-15.36.21:976][660]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.23-15.36.21:976][660]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.23-15.36.21:976][660]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.23-15.36.21:976][660]LogContentValidation: Display: Validating asset /Game/Base/Maps/BossEncounter.BossEncounter
+[2024.09.23-15.36.21:977][660]AssetCheck: /Game/Base/Maps/BossEncounter Validating asset
