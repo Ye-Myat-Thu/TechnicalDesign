@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Ye Myat Thu/source/TechnicalDesign/Content/MyContents/InteractableFloor.uasset",
+				"C:/Users/Ye Myat Thu/source/TechnicalDesign/Content/MyContents/LongPressSwitch_BP.uasset",
+				"C:/Users/Ye Myat Thu/source/TechnicalDesign/Content/Base/Maps/BossEncounter.umap",
 				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Content/Base/Maps/BossEncounter.umap",
 				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Content/MyContents/InteractableStairs.uasset",
 				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Content/Base/Blueprints/InteractionSamples/Advanced/AppearingPlatform.uasset",
