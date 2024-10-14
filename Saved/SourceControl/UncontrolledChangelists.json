@@ -5,12 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Ye Myat Thu/source/TechnicalDesign/Content/MyContents/InteractableFloor.uasset",
-				"C:/Users/Ye Myat Thu/source/TechnicalDesign/Content/MyContents/LongPressSwitch_BP.uasset",
-				"C:/Users/Ye Myat Thu/source/TechnicalDesign/Content/Base/Maps/BossEncounter.umap",
-				"C:/Users/Ye Myat Thu/source/TechnicalDesign/Content/MyContents/NoiseComponent_BP.uasset",
-				"C:/Users/Ye Myat Thu/source/TechnicalDesign/Content/MyContents/Boss_AIController_BP.uasset",
-				"C:/Users/Ye Myat Thu/source/TechnicalDesign/Content/MyContents/NoiseComponent.uasset",
 				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Content/Base/Maps/BossEncounter.umap",
 				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Content/MyContents/InteractableStairs.uasset",
 				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Content/Base/Blueprints/InteractionSamples/Advanced/AppearingPlatform.uasset",
@@ -21,7 +15,17 @@
 				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Content/MyContents/Materials/Robot_MAT.uasset",
 				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Content/MyContents/Robot_BP.uasset",
 				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Content/MyContents/Explosive_BP.uasset",
-				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Plugins/GAD2010Interaction/Content/InteractiveActorBase.uasset"
+				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Plugins/GAD2010Interaction/Content/InteractiveActorBase.uasset",
+				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Content/MyContents/NoiseComponent.uasset",
+				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Content/MyContents/NoiseMaker.uasset",
+				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Content/MyContents/BossAI.uasset",
+				"C:/Users/c2507419/Documents/GitHub/TechnicalDesign/Content/MyContents/Sounds/752753__sprinklecipher__toy-electronic-typewriter-return-lever.uasset",
+				"C:/Users/Ye Myat Thu/source/TechnicalDesign/Content/MyContents/InteractableFloor.uasset",
+				"C:/Users/Ye Myat Thu/source/TechnicalDesign/Content/MyContents/LongPressSwitch_BP.uasset",
+				"C:/Users/Ye Myat Thu/source/TechnicalDesign/Content/Base/Maps/BossEncounter.umap",
+				"C:/Users/Ye Myat Thu/source/TechnicalDesign/Content/MyContents/NoiseComponent_BP.uasset",
+				"C:/Users/Ye Myat Thu/source/TechnicalDesign/Content/MyContents/Boss_AIController_BP.uasset",
+				"C:/Users/Ye Myat Thu/source/TechnicalDesign/Content/MyContents/NoiseComponent.uasset"
 			]
 		}
 	]
