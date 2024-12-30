@@ -1,0 +1,2 @@
+/Game/Base/Maps/BossEncounter.BossEncounter:PersistentLevel.GeneratorBatterySlot_Child_C_1
+/Game/MyContents/Blueprints/Generator_BP.Generator_BP_C
